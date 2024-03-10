@@ -71,7 +71,7 @@ the `/sourcedata` directory. To comply with the BIDS format, the .bdf format was
 converted to EEGLab format, constituting a '.set' file and a 'fdt' file for each 
 dataset. 
 
-Participant 1's data was corrupted my large artefacts that could not be corrected.
+Participant 1's data was corrupted by large artefacts that could not be corrected.
 Participants 8, 16, and 28 had no EEG data recorded, as their pre-task titration
 failed to converge. As such, the data for these 4 participants are not included 
 in this dataset.
