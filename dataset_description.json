@@ -10,5 +10,8 @@
         "Anthony M. Harris"
     ],
     "HowToAcknowledge": "Please cite Williams, Harrison, Beale, Mattingley, & Harris (2024). Effects of alpha oscillation power and phase on discrimination performance in a visual tilt illusion. Current Biology",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005021.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005021.v1.0.0",
+    "Funding": [
+        "The authors would like to acknowledge the following funding sources: WJH was supported by the Australian Research Council (DE190100136). JBM was supported by a National Health and Medical Research Council (NHMRC) Australia Investigator Grant (GNT2010141). AMH was supported by the Australian Research Council (DE220101019)."
+    ]
 }
